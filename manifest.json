@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dynamic Accent",
+    "description": "Dynamically updates Spotify accent colors from the current track artwork. Works on top of Marketplace-installed themes.",
+    "preview": "marketplace.png",
+    "main": "dynamicAccent.js",
+    "readme": "README.md",
+    "authors": [
+      {
+        "name": "CatOtchi",
+        "url": "https://github.com/CatOtchi/"
+      }
+    ],
+    "tags": ["dynamic", "accent", "theme", "album-art", "colors"]
+  }
+]
